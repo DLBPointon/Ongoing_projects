@@ -3,7 +3,9 @@
 A 4 pi cluster for experimenting with docker, kubernetes and other cluster technologies.
 
 ## Hardware
+
 | Hardware | spec |
+|----------|------|
 | 4* Raspberry Pi 4's | 4GB |
 | Uctronics Pi Cluster case | Case |
 | SSD | 125GB |
