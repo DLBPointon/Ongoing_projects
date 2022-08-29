@@ -14,6 +14,8 @@ This Pi will also be running:
 | Kavita | Comic, Book and PDF viewer | 5000 |
 | Airsonic | Music and Podcast server | 4040 |
 | PiHole | Advert blocking | Not Yet Running |
+| VPN? | | |
+| Reverse Proxy | | |
 
 ## Hardware
 
