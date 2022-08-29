@@ -11,7 +11,8 @@ This Pi will also be running:
 |---------|-----|------|
 | Portainer | For container orchestration | 9000 |
 | Plex | For local media provision | 32400 |
-| Kavita | Comic, Book and PDF viewer | 5000
+| Kavita | Comic, Book and PDF viewer | 5000 |
+| Airsonic | Music and Podcast server | 4040 |
 | PiHole | Advert blocking | Not Yet Running |
 
 ## Hardware
