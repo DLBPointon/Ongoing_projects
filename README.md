@@ -10,6 +10,8 @@ A repo detailing the home projects i'm working on.
 
 [Plex](Vault/Plex.md) - Issues encountered with Plex
 
+[Airsonic](Vault/Airsonic.md) - Issues with Airsonic
+
 ---
 ### PiStack
 
