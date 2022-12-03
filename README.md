@@ -11,6 +11,7 @@ A repo detailing the home projects i'm working on.
 | [The Vault](Vault/OpenMediaVault6.md) - an OMV6 based NAS | 10.0.0.2 | Serves media locally | |
 | Portainer | *:9000 | Docker manager | |
 | [Plex](Vault/Plex.md) | *:32400 | Media viewer | |
+| Tautilli | *:8181 | Plex Media Tracker | |
 | [Airsonic](Vault/Airsonic.md) |  *:4040 | Local Music Player | |
 | Kavita | *:5000 | Comic and Book Viewer | |
 | meTube | *:9090 | Video Download Server | |
